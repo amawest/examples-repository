@@ -79,12 +79,18 @@ Whenever you "commit" a change, GitHub Pages will automatically run [Jekyll](htt
 # Pages
 
 ## Main Page
+- index.html
 
 ## User Guide
 
 ## Search
 
 ## Browse
+
+## Exhibits
+- _exhibits 
+    - a.md
+    - b.md
 
 
 # Support
