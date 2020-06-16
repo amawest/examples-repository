@@ -86,20 +86,40 @@ Relevant files:
 ```
 
 ## User Guide
+```
+- pages
+    - how_to.md
+```
 
 ## Search
 Relevant files: 
-```
-- config.yml
-- search
+``` 
+- config.yml 
+- search folder
     - index.json
-- includes
+- pages 
+    - search.md
+- includes 
+    - search_box.html
     - total_data.html
 ```
 
 
-
 ## Browse
+Relevant files: 
+``` 
+- config.yml 
+- _datasets
+    - (relevant objects)
+- _datavis
+    - (relevant objects)
+- pages 
+    - datasets.html
+    - datavis.html
+- includes 
+    - dataset_data.html
+    - datavis_data.html
+```
 
 ## Exhibits
 Relevant files: 
