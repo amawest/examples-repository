@@ -2,6 +2,7 @@
 
 - [Prerequisites](#Prerequisites)
 - [Making modifications](#Modify)
+- [Pages within this repository](#Pages)
 - [Support & contact information](#Support)
 
 # Prerequisites
@@ -74,6 +75,17 @@ This should provide you with a localhost URL. You can now make changes locally (
 You can also use the [editor on GitHub](https://github.com/Contrafabulists/think-tanks/edit/master/README.md) to maintain and preview the content for this website. This doesn't require installing Ruby or cloning the repository but it can take longer to write new lines of code. 
 
 Whenever you "commit" a change, GitHub Pages will automatically run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site. 
+
+# Pages
+
+## Main Page
+
+## User Guide
+
+## Search
+
+## Browse
+
 
 # Support
 
