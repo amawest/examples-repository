@@ -80,14 +80,14 @@ Whenever you "commit" a change, GitHub Pages will automatically run [Jekyll](htt
 All of the files that work on connection to the functioning of each page and what they do. 
 
 ## Main Page
-```bash
+```
 - index.html
 ```
 
 ## User Guide
 
 ## Search
-```bash
+```
 - config.yml
 - search
     - index.json
@@ -100,7 +100,7 @@ All of the files that work on connection to the functioning of each page and wha
 ## Browse
 
 ## Exhibits
-```bash
+```
 - _exhibits 
     - a.md
     - b.md
