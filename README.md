@@ -77,6 +77,7 @@ You can also use the [editor on GitHub](https://github.com/Contrafabulists/think
 Whenever you "commit" a change, GitHub Pages will automatically run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site. 
 
 # Pages
+All of the files that work on connection to the functioning of each page and what they do. 
 
 ## Main Page
 - index.html
@@ -84,6 +85,11 @@ Whenever you "commit" a change, GitHub Pages will automatically run [Jekyll](htt
 ## User Guide
 
 ## Search
+- config.yml
+- search
+    - index.json
+- includes
+    - total_data.html
 
 ## Browse
 
